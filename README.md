@@ -50,7 +50,7 @@ Streaming demand drops significantly after Christmas, confirming strong seasonal
 
 ## Files
 
-spotify_christmas_streams_kworb_2017_2025.xlsx
+[spotify_christmas_streams_kworb_2017_2025.xlsx](https://github.com/user-attachments/files/24348269/spotify_christmas_streams_kworb_2017_2025.xlsx)
 
 ## Author
 
