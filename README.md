@@ -2,95 +2,59 @@
 
 ![Image](https://github.com/user-attachments/assets/53c31e10-dc1f-495e-b85f-8978c88851f7)
 
-## 📌 Project Overview
+## Overview
 
-This project uses Microsoft Excel to analyze Spotify Christmas music streaming data from 2017 to 2025. The goal is to uncover seasonal patterns, compare year-over-year performance, and evaluate which Christmas songs are rising, stable, or declining in popularity using descriptive statistics and trend analysis.
+This Excel-based project analyzes Spotify Christmas music streaming data from 2017–2025 to uncover seasonal patterns, growth trends, and changes in song popularity. The analysis focuses on descriptive statistics, growth metrics, and indexed comparisons to understand listener behavior during the holiday season.
 
-The project demonstrates how Excel can be used effectively for data cleaning, statistical analysis, and insight generation without advanced programming tools.
+## Research Questions
 
-## 🎯 Objectives
+How do Christmas music streams change from mid-November to Christmas week?
 
-Analyze seasonal changes in Christmas music streaming
+Which Christmas songs are rising or declining in popularity over time?
 
-Measure year-over-year growth and decline
+How consistent are streaming patterns year over year?
 
-Compare song performance using indexed values
+Do relative (indexed) trends reveal insights beyond absolute stream counts?
 
-Interpret statistical patterns to explain listener behavior
-
-## 🗂️ Dataset
+## Dataset
 
 Source: Spotify Christmas streaming data (Kworb)
 
-Time Period: 2017–2025
+Period: 2017–2025
 
 Granularity: Weekly stream counts
 
-Tool Used: Microsoft Excel
+Format: Excel (.xlsx)
 
-## 🛠️ Tools & Techniques
+## Tools & Methods
 
 Microsoft Excel
 
-Pivot Tables & Pivot Charts
+Pivot Tables & Charts
 
-Descriptive Statistics (Mean, Median, Growth Rates)
+Descriptive Statistics (mean, growth rates)
 
-Week-over-Week (WoW) and Year-over-Year (YoY) Analysis
+Week-over-Week (WoW) and Year-over-Year (YoY) analysis
 
-Indexed Trend Analysis
+Indexed trend analysis
 
-Conditional Formatting & Charts
+## Key Findings
 
-## 📈 Statistical Findings & Interpretation
-## 1️⃣ Seasonal Trend Analysis
+Streaming activity rises sharply from mid-November and peaks during Christmas week.
 
-Finding:
-Average weekly streams increase significantly from mid-November (Week 45) and peak around Christmas week across all years.
+Classic Christmas songs maintain stable performance across years.
 
-Interpretation:
-This confirms strong seasonality in Christmas music consumption, driven by cultural and holiday-related listening behavior rather than random variation.
+Several newer tracks show stronger relative growth when analyzed using indexed values.
 
-## 2️⃣ Year-over-Year Growth
+Streaming demand drops significantly after Christmas, confirming strong seasonality.
 
-Finding:
-Classic Christmas songs show relatively stable mean streams year-over-year, while newer songs display higher volatility in growth rates.
+## Files
 
-Interpretation:
-Established holiday classics benefit from long-term listener loyalty, whereas newer songs depend more heavily on recent popularity and marketing exposure.
+spotify_christmas_streams_kworb_2017_2025.xlsx
 
-## 3️⃣ Indexed Performance Comparison
-
-Finding:
-When streams are indexed (base year = 100), some songs with lower absolute streams show stronger relative growth compared to dominant classics.
-
-Interpretation:
-Indexed analysis reveals hidden growth trends that absolute values alone may obscure, making it easier to identify emerging holiday tracks.
-
-## 4️⃣ Week-over-Week (WoW) Change
-
-Finding:
-The highest WoW growth consistently occurs between late November and early December, followed by a sharp decline after Christmas.
-
-Interpretation:
-Listener engagement rapidly accelerates during peak holiday anticipation and drops immediately after Christmas, reinforcing the short-lived nature of seasonal demand.
-
-## 📂 Project Files
-
-spotify_christmas_streams_kworb_2017_2025.xlsx – Cleaned dataset, pivot tables, charts, and calculations
-
-README.md – Project documentation
-
-## 📌 Key Takeaways
-
-Excel is effective for uncovering meaningful statistical insights in time-series data
-
-Christmas music streaming is highly seasonal and predictable
-
-Indexed and growth-rate analysis provides deeper insight than raw totals alone
-
-## 👤 Author
+## Author
 
 Sylvia Eze
+Mechanical Engineering Student | Aspiring Data Scientist
 Mechanical Engineering Student | Aspiring Data Scientist
 Skills: Excel, Data Analysis, Statistics, Data Visualization
