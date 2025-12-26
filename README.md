@@ -1,5 +1,6 @@
 # 🎄 Spotify Christmas Music Streaming Analysis (2017–2025)
 
+![Image](https://github.com/user-attachments/assets/53c31e10-dc1f-495e-b85f-8978c88851f7)
 
 ## Overview
 
